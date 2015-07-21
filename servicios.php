@@ -187,27 +187,16 @@
                               <i class="fa fa-money fa-stack-1x fa-inverse"></i>
                         </span> 
                     </div>
-                    <a href="cobranzas.php">
+                  
                     <div class="media-body">
-                        <h4 class="media-heading">Cobranzas</h4>
+                        <h4 class="media-heading right">Cobranzas</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <br>
+                            <a href="cobranzas.php" class="btn btn-default">Ver mas</a>               
                     </div>
-                    </a>    
+                       
                 </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-print fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <a href="digitalizacion.php">
-                    <div class="media-body">
-                        <h4 class="media-heading">Digitalización</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                        </a>
-                </div>
+
                 <div class="media">
                     <div class="pull-left">
                         <span class="fa-stack fa-2x">
@@ -219,6 +208,8 @@
                     <div class="media-body">
                         <h4 class="media-heading">Servicios de Archivos</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <br>
+                            <a href="cobranzas.php" class="btn btn-default">Ver mas</a> 
                     </div>
                         </a>
                 </div>
@@ -235,6 +226,8 @@
                     <div class="media-body">
                         <h4 class="media-heading">Servicios de Transportes </h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <br>
+                            <a href="cobranzas.php" class="btn btn-default">Ver mas</a> 
                     </div>
                         </a>
                 </div>
@@ -249,6 +242,8 @@
                     <div class="media-body">
                         <h4 class="media-heading">Asesorías y Evaluaciones Técnica Económica</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+               
+                            <a href="cobranzas.php" class="btn btn-default">Ver mas</a> 
                     </div>
                         </a>
                 </div>
@@ -265,44 +260,25 @@
                     </div>
                 </div>-->
             </div>
-<!--            <div class="col-md-4">
+           <div class="col-md-4">
                 <div class="media">
                     <div class="pull-left">
                         <span class="fa-stack fa-2x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
+                              <i class="fa fa-print fa-stack-1x fa-inverse"></i>
                         </span> 
                     </div>
+                    <a href="digitalizacion.php">
                     <div class="media-body">
-                        <h4 class="media-heading">Service Seven</h4>
+                        <h4 class="media-heading">Digitalización</h4>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <br>
+                            <a href="cobranzas.php" class="btn btn-default">Ver mas</a> 
                     </div>
+                        </a>
                 </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Eight</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Nine</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-            </div>-->
+
+            </div>
         </div>
         <!-- /.row -->
 

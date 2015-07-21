@@ -33,3 +33,7 @@
 .panel-body{
     height: 350px !important;
 }
+
+.dropdown-toggle{
+    z-index: 300;
+}

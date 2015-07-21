@@ -64,7 +64,7 @@
             <div class="col-md-4">
                 <h3>Contact Details</h3>
                 <p>
-                    3481 Melrose Place<br>Beverly Hills, CA 90210<br>
+                    Tomas Andrews 081 Providencia - Santiago.
                 </p>
                 <p><i class="fa fa-phone"></i> 
                     <abbr title="Phone">P</abbr>: (123) 456-7890</p>

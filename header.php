@@ -7,13 +7,7 @@ and open the template in the editor.
 <html>
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -51,12 +45,33 @@ and open the template in the editor.
                     <li>
                         <a href="nosotros.php">Nosotros</a>
                     </li>
+                    <li class="dropdown">
+                        <a href="servicios.php" class="dropdown-toggle" data-toggle="dropdown">Servicios<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="cobranzas.php">Cobranzas</a>
+                            </li>
+                            <li>
+                                <a href="digitalizacion.php">Digitalizacón</a>
+                            </li>
+                            <li>
+                                <a href="archivo.php">Servicio de archivos</a>
+                            </li>
+                            <li>
+                                <a href="transporte.php">Servicio de transportes</a>
+                            </li>
+                            <li>
+                                <a href="asesorias.php">Asesorías y Evaluaciones Técnica Económica</a>
+                            </li>
+                        </ul>
+                    </li>
                     <li>
-                        <a href="servicios.php">Servicios</a>
+                        <a href="filosofia.php">Filosofia</a>
                     </li>
                     <li>
                         <a href="contacto.php">Contacto</a>
                     </li>
+
 <!--                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
                         <ul class="dropdown-menu">
