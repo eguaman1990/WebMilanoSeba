@@ -44,9 +44,9 @@
 
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
+                    <li><a href="index.html">Inicio</a>
                     </li>
-                    <li class="active">Services</li>
+                    <li class="active">Cobranzas</li>
                 </ol>
             </div>
         </div>

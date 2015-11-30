@@ -40,13 +40,13 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Servicio de archivo
+                <h1 class="page-header">Servicio de Archivo
 
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
+                    <li><a href="index.html">Inicio</a>
                     </li>
-                    <li class="active">Services</li>
+                    <li class="active">Servicio de Archivo</li>
                 </ol>
             </div>
         </div>
@@ -64,7 +64,7 @@
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Servicios de archivo</h2>
+                <h2 class="page-header">Servicios de Archivo</h2>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">

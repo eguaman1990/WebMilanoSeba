@@ -43,9 +43,9 @@
                 <h1 class="page-header">Optimice sus cobranzas con Milano
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
+                    <li><a href="index.html">Inicio</a>
                     </li>
-                    <li class="active">About</li>
+                    <li class="active">Nosotros</li>
                 </ol>
             </div>
         </div>
